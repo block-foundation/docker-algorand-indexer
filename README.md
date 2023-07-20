@@ -1,7 +1,7 @@
 <div>
     <img align="right" src="https://raw.githubusercontent.com/block-foundation/brand/master/logo/logo_gray.png" width="96" alt="Block Foundation Logo">
-    <h1 align="left">Block Foundation Docker Images</h1>
-    <h3 align="left">Algorand Indexer</h3>
+    <h1 align="left">Algorand Indexer</h1>
+    <h3 align="left">Block Foundation Docker Images</h3>
 </div>
 <br>
 
