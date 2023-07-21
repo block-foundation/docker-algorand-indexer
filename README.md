@@ -7,14 +7,19 @@
 
 </div>
 
+---
+
 <div>
     <img align="right" src="https://raw.githubusercontent.com/block-foundation/brand/master/logo/logo_gray.png" width="96" alt="Block Foundation Logo">
     <h1 align="left">Algorand Indexer</h1>
     <h3 align="left">Block Foundation Docker Images</h3>
 </div>
-<br>
 
 ---
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/block-foundation/docker-algorand-indexer/master/res/block_foundation-containers.jpg"width="100%" height="100%" alt="Form Follows Finance">
+</p>
 
 ## Disclaimer
 
