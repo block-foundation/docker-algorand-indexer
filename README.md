@@ -60,6 +60,8 @@ stateDiagram
 
 ## Resources
 
+- https://hub.docker.com/r/algorand/indexer/tags
+
 ### Algorand
 
 - [Algorand](https://www.algorand.com/)
