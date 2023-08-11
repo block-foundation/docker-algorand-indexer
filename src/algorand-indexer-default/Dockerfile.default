@@ -1,0 +1,1 @@
+FROM algorand/indexer:3.0.0
